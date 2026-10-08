@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Keep biometric samples, student records, and trained face data out of Git.
+/data/dataset/
+/data/students.json
+/data/trainer/
+/output/
